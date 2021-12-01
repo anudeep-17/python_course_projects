@@ -1,4 +1,4 @@
-# python_course_projects
+# Python_course_projects
 
 This repo contains the projects I created as a part of Python learning.
 
